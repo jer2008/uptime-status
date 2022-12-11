@@ -13,7 +13,7 @@ window.Config = {
   CountDays: 30,
 
   // 是否显示检测站点的链接
-  ShowLink: false,
+  ShowLink: true,
 
   // 导航栏菜单
   Navi: [
