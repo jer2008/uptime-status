@@ -19,7 +19,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://blog.jersite.gq/'
+      url: 'https://www.jersite.gq/'
     },
     {
       text: 'GitHub',
